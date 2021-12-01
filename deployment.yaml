@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: test-deploy-from-git
+  name: test-deploy-from-git-test1
 spec:
   template:
     metadata:
